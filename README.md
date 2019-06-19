@@ -1,2 +1,9 @@
 # first
-test repo for git commands demonstration
+#include<stdio.h>
+#include<conio.h>
+void main()
+{
+printf("hello world");
+}
+
+
